@@ -5,5 +5,8 @@ Learn Node JS from scratch
 
 - Core modules
 - Event loop
-- expressJS
+- Express JS
 - MVC
+- Template Engines (PUG)
+- Dynamic rendering
+- Layout template
