@@ -7,6 +7,6 @@ Learn Node JS from scratch
 - Event loop
 - Express JS
 - MVC
-- Template Engines (PUG)
 - Dynamic rendering
 - Layout template
+- Template Engines (PUG, Handlebars)
