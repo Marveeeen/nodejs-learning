@@ -9,4 +9,4 @@ Learn Node JS from scratch
 - MVC
 - Dynamic rendering
 - Layout template
-- Template Engines (PUG, Handlebars)
+- Template Engines (PUG, Handlebars, EJS)
